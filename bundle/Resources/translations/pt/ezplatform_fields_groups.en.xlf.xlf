@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="pt-BR">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="pt-PT">
     <body>
       <trans-unit id="1">
         <source>content</source>
-        <target xml:lang="pt-BR" state="needs-translation">content</target>
+        <target xml:lang="pt-PT" state="needs-translation">content</target>
       </trans-unit>
     </body>
   </file>
