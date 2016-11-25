@@ -1,4 +1,3 @@
 files:
-  - 
-    source: /bundle/Resources/translations/*.en.xlf
-    translation: /bundle/Resources/translations/%two_letters_code%/%original_file_name%.%file_extension%
+  - source: /bundle/Resources/translations/*.en.xlf
+    translation: /bundle/Resources/translations/%locale%/%file_name%.%locale%.xlf
