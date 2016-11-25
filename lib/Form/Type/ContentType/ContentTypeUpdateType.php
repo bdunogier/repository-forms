@@ -125,7 +125,7 @@ class ContentTypeUpdateType extends AbstractType
                 'mapped' => false,
                 'label' => 'content_type.field_type_selection',
             ])
-            ->add('addFieldDefinition', SubmitType::class, ['label' => 'content_type.add_field_definition'])
+            ->add('addFieldDefinition', SubmitType::class, ['label' => /** @Desc("'Add field definition' form button") */ 'content_type.add_field_definition'])
             ->add('removeFieldDefinition', SubmitType::class, ['label' => 'content_type.remove_field_definitions'])
             ->add('saveContentType', SubmitType::class, ['label' => 'content_type.save'])
             ->add('removeDraft', SubmitType::class, ['label' => 'content_type.remove_draft', 'validation_groups' => false])
