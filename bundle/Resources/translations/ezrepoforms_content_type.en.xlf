@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file date="2016-11-25T12:55:53Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
+  <file date="2016-11-25T13:08:02Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -12,162 +12,162 @@
         <jms:reference-file line="128">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
-        <source>content_type.create</source>
+        <source>Create a content type</source>
         <target>Create a content type</target>
         <jms:reference-file line="67">/../../../../.././lib/Form/Type/ContentType/ContentTypeCreateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
-        <source>content_type.default_always_available</source>
+        <source>Default content availability</source>
         <target>Default content availability</target>
         <jms:reference-file line="115">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
-        <source>content_type.default_sort_field</source>
+        <source>Default field for sorting children</source>
         <target>Default field for sorting children</target>
         <jms:reference-file line="103">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
-        <source>content_type.default_sort_order</source>
+        <source>Default sort order</source>
         <target>Default sort order</target>
         <jms:reference-file line="111">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
-        <source>content_type.delete</source>
+        <source>Delete</source>
         <target>Delete</target>
         <jms:reference-file line="40">/../../../../.././lib/Form/Type/ContentType/ContentTypeDeleteType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
-        <source>content_type.description</source>
+        <source>Description</source>
         <target>Description</target>
         <jms:reference-file line="83">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
-        <source>content_type.field_definitions_data</source>
+        <source>Content field definitions</source>
         <target>Content field definitions</target>
         <jms:reference-file line="120">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
-        <source>content_type.field_type_selection</source>
+        <source>Field type selection</source>
         <target>Field type selection</target>
         <jms:reference-file line="126">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
-        <source>content_type.group.delete</source>
+        <source>Delete</source>
         <target>Delete</target>
         <jms:reference-file line="32">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupDeleteType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="043e7766417bd9d21fe58de76fcaee35eb7d2fb0" resname="content_type.group.identifier">
-        <source>content_type.group.identifier</source>
+        <source>Name</source>
         <target>Name</target>
         <jms:reference-file line="21">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
-        <source>content_type.group.save</source>
+        <source>Save</source>
         <target>Save</target>
         <jms:reference-file line="22">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
-        <source>content_type.identifier</source>
+        <source>Identifier</source>
         <target>Identifier</target>
         <jms:reference-file line="77">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
-        <source>content_type.is_container</source>
+        <source>Container</source>
         <target>Container</target>
         <jms:reference-file line="89">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
-        <source>content_type.name</source>
+        <source>Name</source>
         <target>Name</target>
         <jms:reference-file line="74">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
-        <source>content_type.name_schema</source>
+        <source>Content name pattern</source>
         <target>Content name pattern</target>
         <jms:reference-file line="87">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
-        <source>content_type.publish</source>
+        <source>OK</source>
         <target>OK</target>
         <jms:reference-file line="132">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
-        <source>content_type.remove_draft</source>
+        <source>Cancel</source>
         <target>Cancel</target>
         <jms:reference-file line="131">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions">
-        <source>content_type.remove_field_definitions</source>
+        <source>Remove selected field definitions</source>
         <target>Remove selected field definitions</target>
         <jms:reference-file line="129">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
-        <source>content_type.save</source>
+        <source>Apply</source>
         <target>Apply</target>
         <jms:reference-file line="130">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
-        <source>content_type.url_alias_schema</source>
+        <source>URL alias name pattern</source>
         <target>URL alias name pattern</target>
         <jms:reference-file line="88">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
-        <source>field_definition.description</source>
+        <source>Description</source>
         <target>Description</target>
         <jms:reference-file line="84">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
-        <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+        <source>Select item</source>
         <target>Select item</target>
         <jms:reference-file line="129">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
-        <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+        <source>Select a start location for browsing for relations</source>
         <target>Select a start location for browsing for relations</target>
         <jms:reference-file line="125">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
-        <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+        <source>Select location</source>
         <target>Select location</target>
         <jms:reference-file line="148">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
-        <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+        <source>Select a start location for browsing for relations</source>
         <target>Select a start location for browsing for relations</target>
         <jms:reference-file line="144">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
-        <source>field_definition.field_group</source>
+        <source>Category</source>
         <target>Category</target>
         <jms:reference-file line="96">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
-        <source>field_definition.identifier</source>
+        <source>Identifier</source>
         <target>Identifier</target>
         <jms:reference-file line="79">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="6e91f443eb0cd4ab99331950f20cdbcc03f0b88c" resname="field_definition.is_required">
-        <source>field_definition.is_required</source>
+        <source>Required</source>
         <target>Required</target>
         <jms:reference-file line="88">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="a0267d640a8276b546263c23a5dfdf8e99cc3468" resname="field_definition.is_searchable">
-        <source>field_definition.is_searchable</source>
+        <source>Searchable</source>
         <target>Searchable</target>
         <jms:reference-file line="113">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable">
-        <source>field_definition.is_translatable</source>
+        <source>Translatable</source>
         <target>Translatable</target>
         <jms:reference-file line="89">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
-        <source>field_definition.name</source>
+        <source>Name</source>
         <target>Name</target>
         <jms:reference-file line="76">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f6d7350ade5162400b0848796720fe586392fa46" resname="field_definition.position">
-        <source>field_definition.position</source>
+        <source>Position</source>
         <target>Position</target>
         <jms:reference-file line="99">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
