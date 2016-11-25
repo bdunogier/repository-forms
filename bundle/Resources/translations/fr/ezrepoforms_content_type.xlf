@@ -1,176 +1,362 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file date="2016-11-25T12:57:02Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
-    <header>
-      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
-      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
-    </header>
-    <body>
-      <trans-unit id="0b5b303097790cd7cf1dde918d885439e60ecbd2" resname="content_type.add_field_definition">
-        <source>'Add field definition' form button</source>
-        <target>Ajouter la définition de champ</target>
-        <jms:reference-file line="128">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
-        <source>Create a content type</source>
-        <target>Créer un type de contenu</target>
-        <jms:reference-file line="67">/../../../../.././lib/Form/Type/ContentType/ContentTypeCreateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
-        <source>Default content availability</source>
-        <target>Disponibilité de contenu par défaut</target>
-        <jms:reference-file line="115">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
-        <source>Default field for sorting children</source>
-        <target>Champ par défaut pour trier les enfants</target>
-        <jms:reference-file line="103">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
-        <source>Default sort order</source>
-        <target>Ordre de tri par défaut</target>
-        <jms:reference-file line="111">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
-        <source>Delete</source>
-        <target>Supprimer</target>
-        <jms:reference-file line="40">/../../../../.././lib/Form/Type/ContentType/ContentTypeDeleteType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
-        <source>Description</source>
-        <target>Description</target>
-        <jms:reference-file line="83">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
-        <source>Content field definitions</source>
-        <target>Définitions de champ de contenu</target>
-        <jms:reference-file line="120">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
-        <source>Field type selection</source>
-        <target>Sélection de type de champ</target>
-        <jms:reference-file line="126">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
-        <source>Delete</source>
-        <target>Supprimer</target>
-        <jms:reference-file line="32">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupDeleteType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="043e7766417bd9d21fe58de76fcaee35eb7d2fb0" resname="content_type.group.identifier">
-        <source>Name</source>
-        <target>Nom</target>
-        <jms:reference-file line="21">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
-        <source>Save</source>
-        <target>Sauvegarder</target>
-        <jms:reference-file line="22">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
-        <source>Identifier</source>
-        <target>Identifiant</target>
-        <jms:reference-file line="77">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
-        <source>Container</source>
-        <target>Conteneur</target>
-        <jms:reference-file line="89">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
-        <source>Name</source>
-        <target>Nom</target>
-        <jms:reference-file line="74">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
-        <source>Content name pattern</source>
-        <target>Gabarit de nom de contenu</target>
-        <jms:reference-file line="87">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
-        <source>OK</source>
-        <target>OK</target>
-        <jms:reference-file line="132">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
-        <source>Cancel</source>
-        <target>Annuler</target>
-        <jms:reference-file line="131">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions">
-        <source>Remove selected field definitions</source>
-        <target>Supprimer les définitions de champs sélectionnées</target>
-        <jms:reference-file line="129">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
-        <source>Apply</source>
-        <target>Appliquer</target>
-        <jms:reference-file line="130">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
-        <source>URL alias name pattern</source>
-        <target>Gabarit d'alias d'URL</target>
-        <jms:reference-file line="88">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
-        <source>Description</source>
-        <target>Description</target>
-        <jms:reference-file line="84">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
-        <source>Select item</source>
-        <target>Sélectionner l'élément</target>
-        <jms:reference-file line="129">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
-        <source>Select a start location for browsing for relations</source>
-        <target>Select a start location for browsing for relations</target>
-        <jms:reference-file line="125">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
-        <source>Select location</source>
-        <target>Localisation par défaut</target>
-        <jms:reference-file line="148">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
-        <source>Select a start location for browsing for relations</source>
-        <target>Selectionner une localisation de démarrage pour les relations</target>
-        <jms:reference-file line="144">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
-        <source>Category</source>
-        <target>Catégorie</target>
-        <jms:reference-file line="96">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
-        <source>Identifier</source>
-        <target>Identifiant</target>
-        <jms:reference-file line="79">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="6e91f443eb0cd4ab99331950f20cdbcc03f0b88c" resname="field_definition.is_required">
-        <source>Required</source>
-        <target>Obligatoire</target>
-        <jms:reference-file line="88">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="a0267d640a8276b546263c23a5dfdf8e99cc3468" resname="field_definition.is_searchable">
-        <source>Searchable</source>
-        <target>Recherchable</target>
-        <jms:reference-file line="113">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable">
-        <source>Translatable</source>
-        <target>Traduisible</target>
-        <jms:reference-file line="89">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
-        <source>Name</source>
-        <target>Nom</target>
-        <jms:reference-file line="76">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-      <trans-unit id="f6d7350ade5162400b0848796720fe586392fa46" resname="field_definition.position">
-        <source>Position</source>
-        <target>Position</target>
-        <jms:reference-file line="99">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
-      </trans-unit>
-    </body>
-  </file>
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>content_type.name</source>
+                <target>Nom</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>content_type.identifier</source>
+                <target>Identifiant</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>content_type.description</source>
+                <target>Description</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>content_type.name_schema</source>
+                <target>Gabarit de nom de contenu</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>content_type.url_alias_schema</source>
+                <target>Gabarit d'alias d'URL</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>content_type.is_container</source>
+                <target>Conteneur</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>content_type.default_sort_field</source>
+                <target>Champ par défaut pour trier les enfants</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>content_type.default_sort_order</source>
+                <target>Ordre de tri par défaut</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>content_type.default_always_available</source>
+                <target>Disponibilité de contenu par défaut</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>content_type.field_definitions_data</source>
+                <target>Définitions de champ de contenu</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>content_type.field_type_selection</source>
+                <target>Sélection de type de champ</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>content_type.add_field_definition</source>
+                <target>Ajouter la définition de champ</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>content_type.save</source>
+                <target>Appliquer</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>content_type.edit_title</source>
+                <target>Éditer &lt;%contentTypeName%&gt;</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>content_type.publish</source>
+                <target>OK</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>content_type.remove_field_definitions</source>
+                <target>Supprimer les définitions de champs sélectionnées</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>content_type.remove_draft</source>
+                <target>Annuler</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>content_type.sort_field.1</source>
+                <target>Chemin de localisation</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>content_type.sort_field.2</source>
+                <target>date de publication</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>content_type.sort_field.3</source>
+                <target>Date de modification</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>content_type.sort_field.4</source>
+                <target>Section</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>content_type.sort_field.5</source>
+                <target>Profondeur de localisation</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>content_type.sort_field.6</source>
+                <target>Identifiant de type de contenu</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>content_type.sort_field.7</source>
+                <target>Nom de type de contenu</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>content_type.sort_field.8</source>
+                <target>Priorité de localisation</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>content_type.sort_field.9</source>
+                <target>Nom de contenu</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>content_type.sort_order.0</source>
+                <target>Descendant</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>content_type.sort_order.1</source>
+                <target>Ascendant</target>
+            </trans-unit>
+            <trans-unit id="c922cb4d7cf06dd353a1c42e5beaa942">
+                <source>content_type.create</source>
+                <target>Créer un type de contenu</target>
+            </trans-unit>
+            <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+                <source>content_type.delete</source>
+                <target>Supprimer</target>
+            </trans-unit>
+            <!-- Field definition -->
+            <trans-unit id="101">
+                <source>field_definition.name</source>
+                <target>Nom</target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>field_definition.identifier</source>
+                <target>Identifiant</target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>field_definition.description</source>
+                <target>Description</target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>field_definition.is_required</source>
+                <target>Obligatoire</target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>field_definition.is_translatable</source>
+                <target>Traduisible</target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>field_definition.field_group</source>
+                <target>Catégorie</target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>field_definition.position</source>
+                <target>Position</target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>field_definition.is_searchable</source>
+                <target>Recherchable</target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>field_definition.ezstring.min_length</source>
+                <target>Longueur minimale</target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>field_definition.ezstring.max_length</source>
+                <target>Longueur maximale</target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>field_definition.ezstring.default_value</source>
+                <target>Valeur par défaut</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>field_definition.eztext.text_rows</source>
+                <target>Nombre de ligne de texte</target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>field_definition.ezfloat.min_value</source>
+                <target>Valeur minimale</target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>field_definition.ezfloat.max_value</source>
+                <target>Valeur maximale</target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>field_definition.ezinteger.min_value</source>
+                <target>Valeur minimale</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>field_definition.ezinteger.max_value</source>
+                <target>Maximum value</target>
+            </trans-unit>
+            <trans-unit id="117">
+                <source>field_definition.ezisbn.is_isbn13</source>
+                <target>Format ISBN-13</target>
+            </trans-unit>
+            <trans-unit id="118">
+                <source>field_definition.ezcountry.is_multiple</source>
+                <target>Choix multiple</target>
+            </trans-unit>
+            <trans-unit id="119">
+                <source>field_definition.ezcountry.default_value</source>
+                <target>Sélection des pays par défaut</target>
+            </trans-unit>
+            <trans-unit id="120">
+                <source>field_definition.eztime.use_seconds</source>
+                <target>Utiliser les secondes</target>
+            </trans-unit>
+            <trans-unit id="121">
+                <source>field_definition.eztime.default_type</source>
+                <target>Valeur par défaut</target>
+            </trans-unit>
+            <trans-unit id="122">
+                <source>field_definition.eztime.default_type_empty</source>
+                <target>Vide</target>
+            </trans-unit>
+            <trans-unit id="123">
+                <source>field_definition.eztime.default_type_current</source>
+                <target>Heure courante</target>
+            </trans-unit>
+            <trans-unit id="124">
+                <source>field_definition.ezdate.default_type</source>
+                <target>Valeur par défaut</target>
+            </trans-unit>
+            <trans-unit id="125">
+                <source>field_definition.ezdate.default_type_empty</source>
+                <target>Vide</target>
+            </trans-unit>
+            <trans-unit id="126">
+                <source>field_definition.ezdate.default_type_current</source>
+                <target>Date courante</target>
+            </trans-unit>
+            <trans-unit id="127">
+                <source>field_definition.ezbinaryfile.max_file_size</source>
+                <target>Taille de fichier maximale (MB)</target>
+            </trans-unit>
+            <trans-unit id="128">
+                <source>field_definition.ezmedia.max_file_size</source>
+                <target>Taille de fichier maximale (MB)</target>
+            </trans-unit>
+            <trans-unit id="129">
+                <source>field_definition.ezmedia.media_type</source>
+                <target>Type de média</target>
+            </trans-unit>
+            <trans-unit id="130">
+                <source>field_definition.ezmedia.type_html5_video</source>
+                <target>Vidéo HTML5</target>
+            </trans-unit>
+            <trans-unit id="131">
+                <source>field_definition.ezmedia.type_flash</source>
+                <target>Flash</target>
+            </trans-unit>
+            <trans-unit id="132">
+                <source>field_definition.ezmedia.type_quick_time</source>
+                <target>QuickTime</target>
+            </trans-unit>
+            <trans-unit id="133">
+                <source>field_definition.ezmedia.type_real_player</source>
+                <target>RealPlayer</target>
+            </trans-unit>
+            <trans-unit id="134">
+                <source>field_definition.ezmedia.type_silverlight</source>
+                <target>Silverlight</target>
+            </trans-unit>
+            <trans-unit id="135">
+                <source>field_definition.ezmedia.type_windows_media_player</source>
+                <target>Windows Media Player</target>
+            </trans-unit>
+            <trans-unit id="136">
+                <source>field_definition.ezmedia.type_html5_audio</source>
+                <target>Audio HTML5</target>
+            </trans-unit>
+            <trans-unit id="137">
+                <source>field_definition.ezpage.default_layout</source>
+                <target>Layout par défaut</target>
+            </trans-unit>
+            <trans-unit id="138">
+                <source>field_definition.ezselection.is_multiple</source>
+                <target>Choix multiple</target>
+            </trans-unit>
+            <trans-unit id="139">
+                <source>field_definition.ezselection.options</source>
+                <target>Options</target>
+            </trans-unit>
+            <trans-unit id="140">
+                <source>field_definition.ezrichtext.num_rows</source>
+                <target>Numbre de lignes de texte dans l'éditeur</target>
+            </trans-unit>
+            <trans-unit id="141">
+                <source>field_definition.ezimage.max_file_size</source>
+                <target>Taille de fichier maximale (byte)</target>
+            </trans-unit>
+            <trans-unit id="142">
+                <source>field_definition.ezdatetime.use_seconds</source>
+                <target>Utiliser les secondes</target>
+            </trans-unit>
+            <trans-unit id="143">
+                <source>field_definition.ezdatetime.default_type</source>
+                <target>Valeur par défaut</target>
+            </trans-unit>
+            <trans-unit id="144">
+                <source>field_definition.ezdatetime.default_type_empty</source>
+                <target>Vide</target>
+            </trans-unit>
+            <trans-unit id="145">
+                <source>field_definition.ezdatetime.default_type_current</source>
+                <target>Date/Heure courante</target>
+            </trans-unit>
+            <trans-unit id="146">
+                <source>field_definition.ezdatetime.default_type_adjusted</source>
+                <target>Date/Heure courante ajustée</target>
+            </trans-unit>
+            <trans-unit id="147">
+                <source>field_definition.ezdatetime.date_interval</source>
+                <target>Date et Heure courantes ajustée par</target>
+            </trans-unit>
+            <trans-unit id="148">
+                <source>field_definition.ezobjectrelation.selection_root</source>
+                <target>Élément sélectionné par défaut</target>
+            </trans-unit>
+            <trans-unit id="149">
+                <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+                <target>Select a start location for browsing for relations</target>
+            </trans-unit>
+            <trans-unit id="150">
+                <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+                <target>Sélectionner l'élément</target>
+            </trans-unit>
+            <trans-unit id="151">
+                <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+                <target>Localisation par défaut</target>
+            </trans-unit>
+            <trans-unit id="152">
+                <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+                <target>Types de contenu autorisés</target>
+            </trans-unit>
+            <trans-unit id="153">
+                <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+                <target>Selectionner une localisation de démarrage pour les relations</target>
+            </trans-unit>
+            <trans-unit id="154">
+                <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+                <target>Localisation par défaut</target>
+            </trans-unit>
+            <!-- Errors -->
+            <trans-unit id="1ccb9c8a9c5030a616b4caf4b2e532c0">
+                <source>content_type.error.content_type_group.not_found</source>
+                <target>Le groupe de type de contenu #%id% n'existe pas.</target>
+            </trans-unit>
+            <!-- ContentType groups -->
+            <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+                <source>content_type.group.identifier</source>
+                <target>Nom</target>
+            </trans-unit>
+            <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+                <source>content_type.group.save</source>
+                <target>Sauvegarder</target>
+            </trans-unit>
+            <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
+                <source>content_type.group.delete</source>
+                <target>Supprimer</target>
+            </trans-unit>
+        </body>
+    </file>
 </xliff>
