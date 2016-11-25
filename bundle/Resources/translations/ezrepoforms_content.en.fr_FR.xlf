@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="fr">
+    <body>
+      <trans-unit id="eb732abfbae397aca2742d95e9d0be74">
+        <source>content.create_button</source>
+        <target xml:lang="fr" state="translated">Créer</target>
+      </trans-unit>
+      <trans-unit id="feebb073e498ff5b9166f640554eeb60">
+        <source>content.edit_button</source>
+        <target xml:lang="fr" state="translated">Editer</target>
+      </trans-unit>
+      <trans-unit id="f51270da268bd8eda1a5d49f51cf93f6">
+        <source>content.publish_button</source>
+        <target xml:lang="fr" state="translated">Publier</target>
+      </trans-unit>
+      <!-- FieldTypes -->
+    </body>
+  </file>
+</xliff>
