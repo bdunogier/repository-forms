@@ -13,8 +13,11 @@
       </trans-unit>
       <trans-unit id="f471f1ba7a9fddf9bcaf869218b35fe26147a4ab" resname="language.form.save">
         <source>Save</source>
-        <target xml:lang="fr" state="translated">Sauver</target>
+        <target xml:lang="fr" state="translated">Enregistrer</target>
         <jms:reference-file line="25">/../../../../.././lib/Form/Type/Language/LanguageType.php</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Sauver</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
