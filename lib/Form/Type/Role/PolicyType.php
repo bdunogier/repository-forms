@@ -56,6 +56,7 @@ class PolicyType extends AbstractType
             $humanizedModule = $this->humanize($module);
             // For each module, add possibility to grant access to all functions.
             $policyChoices[$humanizedModule] = [
+                // @todo needs TranslationExtractor
                 "$humanizedModule / " . $this->translator->trans('role.policy.all_functions', [], 'ezrepoforms_role') => "$module|*",
             ];
 
