@@ -6,39 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
+        <source>Name</source>
+        <target xml:lang="de" state="translated">Nom</target>
+        <jms:reference-file line="74">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
