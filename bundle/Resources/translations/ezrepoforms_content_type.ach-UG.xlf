@@ -1,175 +1,361 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file date="2016-11-25T13:08:02Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
-    <header>
-      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
-      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
-    </header>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ach">
     <body>
-      <trans-unit id="0b5b303097790cd7cf1dde918d885439e60ecbd2" resname="content_type.add_field_definition">
-        <source>'Add field definition' form button</source>
-        <target xml:lang="ach">crwdns202972:0crwdne202972:0</target>
-        <jms:reference-file line="128">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="1">
+        <source>content_type.name</source>
+        <target xml:lang="ach">crwdns204052:0crwdne204052:0</target>
       </trans-unit>
-      <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
-        <source>Create a content type</source>
-        <target xml:lang="ach">crwdns202973:0crwdne202973:0</target>
-        <jms:reference-file line="67">/../../../../.././lib/Form/Type/ContentType/ContentTypeCreateType.php</jms:reference-file>
+      <trans-unit id="2">
+        <source>content_type.identifier</source>
+        <target xml:lang="ach">crwdns204053:0crwdne204053:0</target>
       </trans-unit>
-      <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
-        <source>Default content availability</source>
-        <target xml:lang="ach">crwdns202974:0crwdne202974:0</target>
-        <jms:reference-file line="115">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="3">
+        <source>content_type.description</source>
+        <target xml:lang="ach">crwdns204054:0crwdne204054:0</target>
       </trans-unit>
-      <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
-        <source>Default field for sorting children</source>
-        <target xml:lang="ach">crwdns202975:0crwdne202975:0</target>
-        <jms:reference-file line="103">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="4">
+        <source>content_type.name_schema</source>
+        <target xml:lang="ach">crwdns204055:0crwdne204055:0</target>
       </trans-unit>
-      <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
-        <source>Default sort order</source>
-        <target xml:lang="ach">crwdns202976:0crwdne202976:0</target>
-        <jms:reference-file line="111">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="5">
+        <source>content_type.url_alias_schema</source>
+        <target xml:lang="ach">crwdns204056:0crwdne204056:0</target>
       </trans-unit>
-      <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
-        <source>Delete</source>
-        <target xml:lang="ach">crwdns202977:0crwdne202977:0</target>
-        <jms:reference-file line="40">/../../../../.././lib/Form/Type/ContentType/ContentTypeDeleteType.php</jms:reference-file>
+      <trans-unit id="6">
+        <source>content_type.is_container</source>
+        <target xml:lang="ach">crwdns204057:0crwdne204057:0</target>
       </trans-unit>
-      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
-        <source>Description</source>
-        <target xml:lang="ach">crwdns202978:0crwdne202978:0</target>
-        <jms:reference-file line="83">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="7">
+        <source>content_type.default_sort_field</source>
+        <target xml:lang="ach">crwdns204058:0crwdne204058:0</target>
       </trans-unit>
-      <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
-        <source>Content field definitions</source>
-        <target xml:lang="ach">crwdns202979:0crwdne202979:0</target>
-        <jms:reference-file line="120">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="8">
+        <source>content_type.default_sort_order</source>
+        <target xml:lang="ach">crwdns204059:0crwdne204059:0</target>
       </trans-unit>
-      <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
-        <source>Field type selection</source>
-        <target xml:lang="ach">crwdns202980:0crwdne202980:0</target>
-        <jms:reference-file line="126">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="9">
+        <source>content_type.default_always_available</source>
+        <target xml:lang="ach">crwdns204060:0crwdne204060:0</target>
       </trans-unit>
-      <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
-        <source>Delete</source>
-        <target xml:lang="ach">crwdns202981:0crwdne202981:0</target>
-        <jms:reference-file line="32">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupDeleteType.php</jms:reference-file>
+      <trans-unit id="10">
+        <source>content_type.field_definitions_data</source>
+        <target xml:lang="ach">crwdns204061:0crwdne204061:0</target>
       </trans-unit>
-      <trans-unit id="043e7766417bd9d21fe58de76fcaee35eb7d2fb0" resname="content_type.group.identifier">
-        <source>Name</source>
-        <target xml:lang="ach">crwdns202982:0crwdne202982:0</target>
-        <jms:reference-file line="21">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
+      <trans-unit id="11">
+        <source>content_type.field_type_selection</source>
+        <target xml:lang="ach">crwdns204062:0crwdne204062:0</target>
       </trans-unit>
-      <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
-        <source>Save</source>
-        <target xml:lang="ach">crwdns202983:0crwdne202983:0</target>
-        <jms:reference-file line="22">/../../../../.././lib/Form/Type/ContentType/ContentTypeGroupType.php</jms:reference-file>
+      <trans-unit id="12">
+        <source>content_type.add_field_definition</source>
+        <target xml:lang="ach">crwdns204063:0crwdne204063:0</target>
       </trans-unit>
-      <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
-        <source>Identifier</source>
-        <target xml:lang="ach">crwdns202984:0crwdne202984:0</target>
-        <jms:reference-file line="77">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="13">
+        <source>content_type.save</source>
+        <target xml:lang="ach">crwdns204064:0crwdne204064:0</target>
       </trans-unit>
-      <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
-        <source>Container</source>
-        <target xml:lang="ach">crwdns202985:0crwdne202985:0</target>
-        <jms:reference-file line="89">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="14">
+        <source>content_type.edit_title</source>
+        <target xml:lang="ach">crwdns204065:0crwdne204065:0</target>
       </trans-unit>
-      <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
-        <source>Name</source>
-        <target xml:lang="ach">crwdns202986:0crwdne202986:0</target>
-        <jms:reference-file line="74">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="15">
+        <source>content_type.publish</source>
+        <target xml:lang="ach">crwdns204066:0crwdne204066:0</target>
       </trans-unit>
-      <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
-        <source>Content name pattern</source>
-        <target xml:lang="ach">crwdns202987:0crwdne202987:0</target>
-        <jms:reference-file line="87">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="16">
+        <source>content_type.remove_field_definitions</source>
+        <target xml:lang="ach">crwdns204067:0crwdne204067:0</target>
       </trans-unit>
-      <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
-        <source>OK</source>
-        <target xml:lang="ach">crwdns202988:0crwdne202988:0</target>
-        <jms:reference-file line="132">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="17">
+        <source>content_type.remove_draft</source>
+        <target xml:lang="ach">crwdns204068:0crwdne204068:0</target>
       </trans-unit>
-      <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
-        <source>Cancel</source>
-        <target xml:lang="ach">crwdns202989:0crwdne202989:0</target>
-        <jms:reference-file line="131">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="18">
+        <source>content_type.sort_field.1</source>
+        <target xml:lang="ach">crwdns204069:0crwdne204069:0</target>
       </trans-unit>
-      <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions">
-        <source>Remove selected field definitions</source>
-        <target xml:lang="ach">crwdns202990:0crwdne202990:0</target>
-        <jms:reference-file line="129">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="19">
+        <source>content_type.sort_field.2</source>
+        <target xml:lang="ach">crwdns204070:0crwdne204070:0</target>
       </trans-unit>
-      <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
-        <source>Apply</source>
-        <target xml:lang="ach">crwdns202991:0crwdne202991:0</target>
-        <jms:reference-file line="130">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="20">
+        <source>content_type.sort_field.3</source>
+        <target xml:lang="ach">crwdns204071:0crwdne204071:0</target>
       </trans-unit>
-      <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
-        <source>URL alias name pattern</source>
-        <target xml:lang="ach">crwdns202992:0crwdne202992:0</target>
-        <jms:reference-file line="88">/../../../../.././lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      <trans-unit id="21">
+        <source>content_type.sort_field.4</source>
+        <target xml:lang="ach">crwdns204072:0crwdne204072:0</target>
       </trans-unit>
-      <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
-        <source>Description</source>
-        <target xml:lang="ach">crwdns202993:0crwdne202993:0</target>
-        <jms:reference-file line="84">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="22">
+        <source>content_type.sort_field.5</source>
+        <target xml:lang="ach">crwdns204073:0crwdne204073:0</target>
       </trans-unit>
-      <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
-        <source>Select item</source>
-        <target xml:lang="ach">crwdns202994:0crwdne202994:0</target>
-        <jms:reference-file line="129">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      <trans-unit id="23">
+        <source>content_type.sort_field.6</source>
+        <target xml:lang="ach">crwdns204074:0crwdne204074:0</target>
       </trans-unit>
-      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
-        <source>Select a start location for browsing for relations</source>
-        <target xml:lang="ach">crwdns202995:0crwdne202995:0</target>
-        <jms:reference-file line="125">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      <trans-unit id="24">
+        <source>content_type.sort_field.7</source>
+        <target xml:lang="ach">crwdns204075:0crwdne204075:0</target>
       </trans-unit>
-      <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
-        <source>Select location</source>
-        <target xml:lang="ach">crwdns202996:0crwdne202996:0</target>
-        <jms:reference-file line="148">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      <trans-unit id="25">
+        <source>content_type.sort_field.8</source>
+        <target xml:lang="ach">crwdns204076:0crwdne204076:0</target>
       </trans-unit>
-      <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
-        <source>Select a start location for browsing for relations</source>
-        <target xml:lang="ach">crwdns202997:0crwdne202997:0</target>
-        <jms:reference-file line="144">/../../../../.././bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      <trans-unit id="26">
+        <source>content_type.sort_field.9</source>
+        <target xml:lang="ach">crwdns204077:0crwdne204077:0</target>
       </trans-unit>
-      <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
-        <source>Category</source>
-        <target xml:lang="ach">crwdns202998:0crwdne202998:0</target>
-        <jms:reference-file line="96">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="27">
+        <source>content_type.sort_order.0</source>
+        <target xml:lang="ach">crwdns204078:0crwdne204078:0</target>
       </trans-unit>
-      <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
-        <source>Identifier</source>
-        <target xml:lang="ach">crwdns202999:0crwdne202999:0</target>
-        <jms:reference-file line="79">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="28">
+        <source>content_type.sort_order.1</source>
+        <target xml:lang="ach">crwdns204079:0crwdne204079:0</target>
       </trans-unit>
-      <trans-unit id="6e91f443eb0cd4ab99331950f20cdbcc03f0b88c" resname="field_definition.is_required">
-        <source>Required</source>
-        <target xml:lang="ach">crwdns203000:0crwdne203000:0</target>
-        <jms:reference-file line="88">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="c922cb4d7cf06dd353a1c42e5beaa942">
+        <source>content_type.create</source>
+        <target xml:lang="ach">crwdns204080:0crwdne204080:0</target>
       </trans-unit>
-      <trans-unit id="a0267d640a8276b546263c23a5dfdf8e99cc3468" resname="field_definition.is_searchable">
-        <source>Searchable</source>
-        <target xml:lang="ach">crwdns203001:0crwdne203001:0</target>
-        <jms:reference-file line="113">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+        <source>content_type.delete</source>
+        <target xml:lang="ach">crwdns204081:0crwdne204081:0</target>
       </trans-unit>
-      <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable">
-        <source>Translatable</source>
-        <target xml:lang="ach">crwdns203002:0crwdne203002:0</target>
-        <jms:reference-file line="89">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <!-- Field definition -->
+      <trans-unit id="101">
+        <source>field_definition.name</source>
+        <target xml:lang="ach">crwdns204082:0crwdne204082:0</target>
       </trans-unit>
-      <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
-        <source>Name</source>
-        <target xml:lang="ach">crwdns203003:0crwdne203003:0</target>
-        <jms:reference-file line="76">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="102">
+        <source>field_definition.identifier</source>
+        <target xml:lang="ach">crwdns204083:0crwdne204083:0</target>
       </trans-unit>
-      <trans-unit id="f6d7350ade5162400b0848796720fe586392fa46" resname="field_definition.position">
-        <source>Position</source>
-        <target xml:lang="ach">crwdns203004:0crwdne203004:0</target>
-        <jms:reference-file line="99">/../../../../.././lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      <trans-unit id="103">
+        <source>field_definition.description</source>
+        <target xml:lang="ach">crwdns204084:0crwdne204084:0</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>field_definition.is_required</source>
+        <target xml:lang="ach">crwdns204085:0crwdne204085:0</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>field_definition.is_translatable</source>
+        <target xml:lang="ach">crwdns204086:0crwdne204086:0</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>field_definition.field_group</source>
+        <target xml:lang="ach">crwdns204087:0crwdne204087:0</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>field_definition.position</source>
+        <target xml:lang="ach">crwdns204088:0crwdne204088:0</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>field_definition.is_searchable</source>
+        <target xml:lang="ach">crwdns204089:0crwdne204089:0</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>field_definition.ezstring.min_length</source>
+        <target xml:lang="ach">crwdns204090:0crwdne204090:0</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>field_definition.ezstring.max_length</source>
+        <target xml:lang="ach">crwdns204091:0crwdne204091:0</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>field_definition.ezstring.default_value</source>
+        <target xml:lang="ach">crwdns204092:0crwdne204092:0</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>field_definition.eztext.text_rows</source>
+        <target xml:lang="ach">crwdns204093:0crwdne204093:0</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>field_definition.ezfloat.min_value</source>
+        <target xml:lang="ach">crwdns204094:0crwdne204094:0</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>field_definition.ezfloat.max_value</source>
+        <target xml:lang="ach">crwdns204095:0crwdne204095:0</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>field_definition.ezinteger.min_value</source>
+        <target xml:lang="ach">crwdns204096:0crwdne204096:0</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>field_definition.ezinteger.max_value</source>
+        <target xml:lang="ach">crwdns204097:0crwdne204097:0</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>field_definition.ezisbn.is_isbn13</source>
+        <target xml:lang="ach">crwdns204098:0crwdne204098:0</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>field_definition.ezcountry.is_multiple</source>
+        <target xml:lang="ach">crwdns204099:0crwdne204099:0</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>field_definition.ezcountry.default_value</source>
+        <target xml:lang="ach">crwdns204100:0crwdne204100:0</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>field_definition.eztime.use_seconds</source>
+        <target xml:lang="ach">crwdns204101:0crwdne204101:0</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>field_definition.eztime.default_type</source>
+        <target xml:lang="ach">crwdns204102:0crwdne204102:0</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>field_definition.eztime.default_type_empty</source>
+        <target xml:lang="ach">crwdns204103:0crwdne204103:0</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>field_definition.eztime.default_type_current</source>
+        <target xml:lang="ach">crwdns204104:0crwdne204104:0</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>field_definition.ezdate.default_type</source>
+        <target xml:lang="ach">crwdns204105:0crwdne204105:0</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>field_definition.ezdate.default_type_empty</source>
+        <target xml:lang="ach">crwdns204106:0crwdne204106:0</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>field_definition.ezdate.default_type_current</source>
+        <target xml:lang="ach">crwdns204107:0crwdne204107:0</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>field_definition.ezbinaryfile.max_file_size</source>
+        <target xml:lang="ach">crwdns204108:0crwdne204108:0</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>field_definition.ezmedia.max_file_size</source>
+        <target xml:lang="ach">crwdns204109:0crwdne204109:0</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>field_definition.ezmedia.media_type</source>
+        <target xml:lang="ach">crwdns204110:0crwdne204110:0</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>field_definition.ezmedia.type_html5_video</source>
+        <target xml:lang="ach">crwdns204111:0crwdne204111:0</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>field_definition.ezmedia.type_flash</source>
+        <target xml:lang="ach">crwdns204112:0crwdne204112:0</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>field_definition.ezmedia.type_quick_time</source>
+        <target xml:lang="ach">crwdns204113:0crwdne204113:0</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>field_definition.ezmedia.type_real_player</source>
+        <target xml:lang="ach">crwdns204114:0crwdne204114:0</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>field_definition.ezmedia.type_silverlight</source>
+        <target xml:lang="ach">crwdns204115:0crwdne204115:0</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>field_definition.ezmedia.type_windows_media_player</source>
+        <target xml:lang="ach">crwdns204116:0crwdne204116:0</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>field_definition.ezmedia.type_html5_audio</source>
+        <target xml:lang="ach">crwdns204117:0crwdne204117:0</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>field_definition.ezpage.default_layout</source>
+        <target xml:lang="ach">crwdns204118:0crwdne204118:0</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>field_definition.ezselection.is_multiple</source>
+        <target xml:lang="ach">crwdns204119:0crwdne204119:0</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>field_definition.ezselection.options</source>
+        <target xml:lang="ach">crwdns204120:0crwdne204120:0</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>field_definition.ezrichtext.num_rows</source>
+        <target xml:lang="ach">crwdns204121:0crwdne204121:0</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>field_definition.ezimage.max_file_size</source>
+        <target xml:lang="ach">crwdns204122:0crwdne204122:0</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>field_definition.ezdatetime.use_seconds</source>
+        <target xml:lang="ach">crwdns204123:0crwdne204123:0</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>field_definition.ezdatetime.default_type</source>
+        <target xml:lang="ach">crwdns204124:0crwdne204124:0</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>field_definition.ezdatetime.default_type_empty</source>
+        <target xml:lang="ach">crwdns204125:0crwdne204125:0</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>field_definition.ezdatetime.default_type_current</source>
+        <target xml:lang="ach">crwdns204126:0crwdne204126:0</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>field_definition.ezdatetime.default_type_adjusted</source>
+        <target xml:lang="ach">crwdns204127:0crwdne204127:0</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>field_definition.ezdatetime.date_interval</source>
+        <target xml:lang="ach">crwdns204128:0crwdne204128:0</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>field_definition.ezobjectrelation.selection_root</source>
+        <target xml:lang="ach">crwdns204129:0crwdne204129:0</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+        <target xml:lang="ach">crwdns204130:0crwdne204130:0</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+        <target xml:lang="ach">crwdns204131:0crwdne204131:0</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+        <target xml:lang="ach">crwdns204132:0crwdne204132:0</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+        <target xml:lang="ach">crwdns204133:0crwdne204133:0</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+        <target xml:lang="ach">crwdns204134:0crwdne204134:0</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+        <target xml:lang="ach">crwdns204135:0crwdne204135:0</target>
+      </trans-unit>
+      <!-- Errors -->
+      <trans-unit id="1ccb9c8a9c5030a616b4caf4b2e532c0">
+        <source>content_type.error.content_type_group.not_found</source>
+        <target xml:lang="ach">crwdns204136:0crwdne204136:0</target>
+      </trans-unit>
+      <!-- ContentType groups -->
+      <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+        <source>content_type.group.identifier</source>
+        <target xml:lang="ach">crwdns204137:0crwdne204137:0</target>
+      </trans-unit>
+      <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+        <source>content_type.group.save</source>
+        <target xml:lang="ach">crwdns204138:0crwdne204138:0</target>
+      </trans-unit>
+      <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
+        <source>content_type.group.delete</source>
+        <target xml:lang="ach">crwdns204139:0crwdne204139:0</target>
       </trans-unit>
     </body>
   </file>
