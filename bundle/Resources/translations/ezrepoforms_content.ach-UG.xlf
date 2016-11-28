@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file date="2016-11-25T13:08:02Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
-    <header>
-      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
-      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
-    </header>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ach">
     <body>
-      <trans-unit id="2fc1a78f3fa390c99fd859e73280919ae0fc76fc" resname="content.cancel_button">
-        <source>Cancel</source>
-        <target xml:lang="ach">crwdns202963:0crwdne202963:0</target>
-        <jms:reference-file line="49">/../../../../.././lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+      <trans-unit id="eb732abfbae397aca2742d95e9d0be74">
+        <source>content.create_button</source>
+        <target xml:lang="ach">crwdns204042:0crwdne204042:0</target>
       </trans-unit>
-      <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
-        <source>This field is not editable.</source>
-        <target xml:lang="ach">crwdns202964:0crwdne202964:0</target>
-        <jms:reference-file line="14">/../../../../.././bundle/Resources/views/Content/content_form.html.twig</jms:reference-file>
+      <trans-unit id="feebb073e498ff5b9166f640554eeb60">
+        <source>content.edit_button</source>
+        <target xml:lang="ach">crwdns204043:0crwdne204043:0</target>
       </trans-unit>
-      <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email">
-        <source>E-mail:</source>
-        <target xml:lang="ach">crwdns202965:0crwdne202965:0</target>
-        <jms:reference-file line="46">/../../../../.././lib/Form/Type/User/UserAccountType.php</jms:reference-file>
+      <trans-unit id="f51270da268bd8eda1a5d49f51cf93f6">
+        <source>content.publish_button</source>
+        <target xml:lang="ach">crwdns204044:0crwdne204044:0</target>
       </trans-unit>
-      <trans-unit id="4c65e5d17516c19e311161e374bbd39f053b5e6b" resname="content.field_type.ezuser.password">
-        <source>Password:</source>
-        <target xml:lang="ach">crwdns202966:0crwdne202966:0</target>
-        <jms:reference-file line="42">/../../../../.././lib/Form/Type/User/UserAccountType.php</jms:reference-file>
+      <trans-unit id="39a661284481408be917e7c121e7ab1d">
+        <source>content.save_button</source>
+        <target xml:lang="ach">crwdns204045:0crwdne204045:0</target>
       </trans-unit>
-      <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
-        <source>Confirm password:</source>
-        <target xml:lang="ach">crwdns202967:0crwdne202967:0</target>
-        <jms:reference-file line="43">/../../../../.././lib/Form/Type/User/UserAccountType.php</jms:reference-file>
+      <trans-unit id="6a0d486e8aa479d2af5f67112f464e20">
+        <source>content.cancel_button</source>
+        <target xml:lang="ach">crwdns204046:0crwdne204046:0</target>
       </trans-unit>
-      <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
-        <source>Username:</source>
-        <target xml:lang="ach">crwdns202968:0crwdne202968:0</target>
-        <jms:reference-file line="35">/../../../../.././lib/Form/Type/User/UserAccountType.php</jms:reference-file>
+      <trans-unit id="e93fea1c0536d108e24b150ac03c2677">
+        <source>content.field.non_editable</source>
+        <target xml:lang="ach">crwdns204047:0crwdne204047:0</target>
       </trans-unit>
-      <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button">
-        <source>Publish</source>
-        <target xml:lang="ach">crwdns202969:0crwdne202969:0</target>
-        <jms:reference-file line="43">/../../../../.././lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+      <!-- FieldTypes -->
+      <trans-unit id="7b0583136e2275a809b31ae90a455e59">
+        <source>content.field_type.ezuser.username</source>
+        <target xml:lang="ach">crwdns204048:0crwdne204048:0</target>
       </trans-unit>
-      <trans-unit id="49c0762cf87e038e38a06090625eadb4fbbc99ed" resname="content.save_button">
-        <source>Save draft</source>
-        <target xml:lang="ach">crwdns202970:0crwdne202970:0</target>
-        <jms:reference-file line="47">/../../../../.././lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+      <trans-unit id="8acd3d9a24e181ea0e82ad298422fdc7">
+        <source>content.field_type.ezuser.password</source>
+        <target xml:lang="ach">crwdns204049:0crwdne204049:0</target>
       </trans-unit>
-      <trans-unit id="df2f594c4b24eb1a49a45e95a5e7ed5cdef802bd" resname="ezrepoforms.content.fields">
-        <source>ezrepoforms.content.fields</source>
-        <target xml:lang="ach">crwdns202971:0crwdne202971:0</target>
-        <jms:reference-file line="39">/../../../../.././lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+      <trans-unit id="fd2c89db5fdb5a32b85b4813a80f0c35">
+        <source>content.field_type.ezuser.password_confirm</source>
+        <target xml:lang="ach">crwdns204050:0crwdne204050:0</target>
+      </trans-unit>
+      <trans-unit id="94f3c48fbdb6323962103bebf6575c30">
+        <source>content.field_type.ezuser.email</source>
+        <target xml:lang="ach">crwdns204051:0crwdne204051:0</target>
       </trans-unit>
     </body>
   </file>
