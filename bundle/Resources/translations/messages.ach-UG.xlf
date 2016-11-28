@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2016-11-25T13:08:02Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size">
+        <source>field_definition.ezbinaryfile.max_file_size</source>
+        <target xml:lang="ach">crwdns203030:0crwdne203030:0</target>
+        <jms:reference-file line="24">/../../../../.././lib/FieldType/Mapper/BinaryFileFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ef6598f8cd7d60095784845bb24852ac531e47c" resname="field_definition.ezcountry.default_value">
+        <source>field_definition.ezcountry.default_value</source>
+        <target xml:lang="ach">crwdns203031:0crwdne203031:0</target>
+        <jms:reference-file line="55">/../../../../.././lib/FieldType/Mapper/CountryFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="027f35cf66e5ea571cc7b600dad0ab5ceea20cd6" resname="field_definition.ezcountry.is_multiple">
+        <source>field_definition.ezcountry.is_multiple</source>
+        <target xml:lang="ach">crwdns203032:0crwdne203032:0</target>
+        <jms:reference-file line="41">/../../../../.././lib/FieldType/Mapper/CountryFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="18a5846deb7a3d7dcc9fbd0a2de28d609c2a55c2" resname="field_definition.ezdate.default_type">
+        <source>field_definition.ezdate.default_type</source>
+        <target xml:lang="ach">crwdns203033:0crwdne203033:0</target>
+        <jms:reference-file line="34">/../../../../.././lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eb97ae8058956f1babf75555dbdba76c8e409bf1" resname="field_definition.ezdate.default_type_current">
+        <source>field_definition.ezdate.default_type_current</source>
+        <target xml:lang="ach">crwdns203034:0crwdne203034:0</target>
+        <jms:reference-file line="28">/../../../../.././lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="df532a4ad5878fd0bc3f7842fb6907078efe76f9" resname="field_definition.ezdate.default_type_empty">
+        <source>field_definition.ezdate.default_type_empty</source>
+        <target xml:lang="ach">crwdns203035:0crwdne203035:0</target>
+        <jms:reference-file line="27">/../../../../.././lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbbf37dee75d40448b725aea9c893a4ea84c8ab6" resname="field_definition.ezdatetime.date_interval">
+        <source>field_definition.ezdatetime.date_interval</source>
+        <target xml:lang="ach">crwdns203036:0crwdne203036:0</target>
+        <jms:reference-file line="44">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b4f4729ec64de6f20356ad40f768c98c27590fb" resname="field_definition.ezdatetime.default_type">
+        <source>field_definition.ezdatetime.default_type</source>
+        <target xml:lang="ach">crwdns203037:0crwdne203037:0</target>
+        <jms:reference-file line="39">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e37e68ecadab17cf7132cd1d5163a4f13d0f759c" resname="field_definition.ezdatetime.default_type_adjusted">
+        <source>field_definition.ezdatetime.default_type_adjusted</source>
+        <target xml:lang="ach">crwdns203038:0crwdne203038:0</target>
+        <jms:reference-file line="33">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current">
+        <source>field_definition.ezdatetime.default_type_current</source>
+        <target xml:lang="ach">crwdns203039:0crwdne203039:0</target>
+        <jms:reference-file line="32">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0119e6a5f0c829a61263c3a8a37dda53b9da8dce" resname="field_definition.ezdatetime.default_type_empty">
+        <source>field_definition.ezdatetime.default_type_empty</source>
+        <target xml:lang="ach">crwdns203040:0crwdne203040:0</target>
+        <jms:reference-file line="31">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a2fbf20071bc00616d6c927dadd484ad75fbcd4c" resname="field_definition.ezdatetime.use_seconds">
+        <source>field_definition.ezdatetime.use_seconds</source>
+        <target xml:lang="ach">crwdns203041:0crwdne203041:0</target>
+        <jms:reference-file line="27">/../../../../.././lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8f6ec24986ca862e96867edc18aa490ff6035e56" resname="field_definition.ezfloat.max_value">
+        <source>field_definition.ezfloat.max_value</source>
+        <target xml:lang="ach">crwdns203042:0crwdne203042:0</target>
+        <jms:reference-file line="32">/../../../../.././lib/FieldType/Mapper/FloatFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8eb20f50022f5aa6c623f3f870297f2ee034606" resname="field_definition.ezfloat.min_value">
+        <source>field_definition.ezfloat.min_value</source>
+        <target xml:lang="ach">crwdns203043:0crwdne203043:0</target>
+        <jms:reference-file line="25">/../../../../.././lib/FieldType/Mapper/FloatFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
+        <source>field_definition.ezimage.max_file_size</source>
+        <target xml:lang="ach">crwdns203044:0crwdne203044:0</target>
+        <jms:reference-file line="24">/../../../../.././lib/FieldType/Mapper/ImageFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7529d0af266c6893ae1886faf5578cf4d6d768aa" resname="field_definition.ezinteger.max_value">
+        <source>field_definition.ezinteger.max_value</source>
+        <target xml:lang="ach">crwdns203045:0crwdne203045:0</target>
+        <jms:reference-file line="32">/../../../../.././lib/FieldType/Mapper/IntegerFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9b1e51f5ebbb28c403c7707252c6ca47e6a0a82c" resname="field_definition.ezinteger.min_value">
+        <source>field_definition.ezinteger.min_value</source>
+        <target xml:lang="ach">crwdns203046:0crwdne203046:0</target>
+        <jms:reference-file line="25">/../../../../.././lib/FieldType/Mapper/IntegerFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="461c05cd80b29eb37dc4f7e1f9e1d2454b380332" resname="field_definition.ezisbn.is_isbn13">
+        <source>field_definition.ezisbn.is_isbn13</source>
+        <target xml:lang="ach">crwdns203047:0crwdne203047:0</target>
+        <jms:reference-file line="25">/../../../../.././lib/FieldType/Mapper/ISBNFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd243acf201f0150bda1c01399850c7ad9fc0c2d" resname="field_definition.ezmedia.max_file_size">
+        <source>field_definition.ezmedia.max_file_size</source>
+        <target xml:lang="ach">crwdns203048:0crwdne203048:0</target>
+        <jms:reference-file line="26">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type">
+        <source>field_definition.ezmedia.media_type</source>
+        <target xml:lang="ach">crwdns203049:0crwdne203049:0</target>
+        <jms:reference-file line="41">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="adfb7d8a234a1500c70ea82dac5f6d8bebff4234" resname="field_definition.ezmedia.type_flash">
+        <source>field_definition.ezmedia.type_flash</source>
+        <target xml:lang="ach">crwdns203050:0crwdne203050:0</target>
+        <jms:reference-file line="31">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fb4e0e47312060617df5c281c7fc5a537929369f" resname="field_definition.ezmedia.type_html5_audio">
+        <source>field_definition.ezmedia.type_html5_audio</source>
+        <target xml:lang="ach">crwdns203051:0crwdne203051:0</target>
+        <jms:reference-file line="36">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2039c43bb8832c53f19d0a027c64e40e51f22899" resname="field_definition.ezmedia.type_html5_video">
+        <source>field_definition.ezmedia.type_html5_video</source>
+        <target xml:lang="ach">crwdns203052:0crwdne203052:0</target>
+        <jms:reference-file line="30">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e78eb62bcd9c8b47ff51f38c4a828cf91749d38b" resname="field_definition.ezmedia.type_quick_time">
+        <source>field_definition.ezmedia.type_quick_time</source>
+        <target xml:lang="ach">crwdns203053:0crwdne203053:0</target>
+        <jms:reference-file line="32">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a44f707a9ede4f970de7833a2ca29e281fe695d8" resname="field_definition.ezmedia.type_real_player">
+        <source>field_definition.ezmedia.type_real_player</source>
+        <target xml:lang="ach">crwdns203054:0crwdne203054:0</target>
+        <jms:reference-file line="33">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="efa6e36c8ec4e2d5c258e780cbefeb54d77f6bc9" resname="field_definition.ezmedia.type_silverlight">
+        <source>field_definition.ezmedia.type_silverlight</source>
+        <target xml:lang="ach">crwdns203055:0crwdne203055:0</target>
+        <jms:reference-file line="34">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="57951280ffe27b8afe3f6c65f8cda4696267d64a" resname="field_definition.ezmedia.type_windows_media_player">
+        <source>field_definition.ezmedia.type_windows_media_player</source>
+        <target xml:lang="ach">crwdns203056:0crwdne203056:0</target>
+        <jms:reference-file line="35">/../../../../.././lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
+        <source>field_definition.ezobjectrelation.selection_root</source>
+        <target xml:lang="ach">crwdns203057:0crwdne203057:0</target>
+        <jms:reference-file line="24">/../../../../.././lib/FieldType/Mapper/RelationFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
+        <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+        <target xml:lang="ach">crwdns203058:0crwdne203058:0</target>
+        <jms:reference-file line="66">/../../../../.././lib/FieldType/Mapper/RelationListFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
+        <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+        <target xml:lang="ach">crwdns203059:0crwdne203059:0</target>
+        <jms:reference-file line="57">/../../../../.././lib/FieldType/Mapper/RelationListFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8c89d231e7f1b33a8e0b84ad81fc964785a59cbd" resname="field_definition.ezpage.default_layout">
+        <source>field_definition.ezpage.default_layout</source>
+        <target xml:lang="ach">crwdns203060:0crwdne203060:0</target>
+        <jms:reference-file line="44">/../../../../.././lib/FieldType/Mapper/PageFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f4e08d826e58f0be9e678f7c7a60068fd63b567" resname="field_definition.ezrichtext.num_rows">
+        <source>field_definition.ezrichtext.num_rows</source>
+        <target xml:lang="ach">crwdns203061:0crwdne203061:0</target>
+        <jms:reference-file line="25">/../../../../.././lib/FieldType/Mapper/RichTextFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9e5a43d734719bf6ca42940c1cf5bc78b234e2b" resname="field_definition.ezselection.is_multiple">
+        <source>field_definition.ezselection.is_multiple</source>
+        <target xml:lang="ach">crwdns203062:0crwdne203062:0</target>
+        <jms:reference-file line="40">/../../../../.././lib/FieldType/Mapper/SelectionFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options">
+        <source>field_definition.ezselection.options</source>
+        <target xml:lang="ach">crwdns203063:0crwdne203063:0</target>
+        <jms:reference-file line="52">/../../../../.././lib/FieldType/Mapper/SelectionFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e8ede1605bfed09023397f8662ca28c40e7c460a" resname="field_definition.ezstring.default_value">
+        <source>field_definition.ezstring.default_value</source>
+        <target xml:lang="ach">crwdns203064:0crwdne203064:0</target>
+        <jms:reference-file line="54">/../../../../.././lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aeb5a467102cac589770bb08efe1ae15c2845cca" resname="field_definition.ezstring.max_length">
+        <source>field_definition.ezstring.max_length</source>
+        <target xml:lang="ach">crwdns203065:0crwdne203065:0</target>
+        <jms:reference-file line="46">/../../../../.././lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length">
+        <source>field_definition.ezstring.min_length</source>
+        <target xml:lang="ach">crwdns203066:0crwdne203066:0</target>
+        <jms:reference-file line="40">/../../../../.././lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a5ed21a62aec2cda555012922b97975d97bc95c" resname="field_definition.eztext.text_rows">
+        <source>field_definition.eztext.text_rows</source>
+        <target xml:lang="ach">crwdns203067:0crwdne203067:0</target>
+        <jms:reference-file line="40">/../../../../.././lib/FieldType/Mapper/TextBlockFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0f8aa615d0ec1b242535348fecb702d9b75ca2eb" resname="field_definition.eztime.default_type">
+        <source>field_definition.eztime.default_type</source>
+        <target xml:lang="ach">crwdns203068:0crwdne203068:0</target>
+        <jms:reference-file line="44">/../../../../.././lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="95dc4af57dce875f9140238d276ed77f0236746f" resname="field_definition.eztime.default_type_current">
+        <source>field_definition.eztime.default_type_current</source>
+        <target xml:lang="ach">crwdns203069:0crwdne203069:0</target>
+        <jms:reference-file line="38">/../../../../.././lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a0e3e8eb5d13b0e9e8ca8348615a5c00e2e51c1" resname="field_definition.eztime.default_type_empty">
+        <source>field_definition.eztime.default_type_empty</source>
+        <target xml:lang="ach">crwdns203070:0crwdne203070:0</target>
+        <jms:reference-file line="37">/../../../../.././lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3095005d6d92b499602347e3692b69346a35a845" resname="field_definition.eztime.use_seconds">
+        <source>field_definition.eztime.use_seconds</source>
+        <target xml:lang="ach">crwdns203071:0crwdne203071:0</target>
+        <jms:reference-file line="29">/../../../../.././lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
