@@ -6,25 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="f6b396a2d7ba20e291c364b91a3189b672c4d4b9" resname="policy.limitation.group.self">
+        <source>Self</source>
+        <target xml:lang="en" state="translated">Self</target>
+        <jms:reference-file line="29">/../../../../.././lib/Limitation/Mapper/GroupLimitationMapper.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
