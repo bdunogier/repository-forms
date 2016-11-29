@@ -10,6 +10,7 @@
         <source>Cancel</source>
         <target xml:lang="ach">crwdns204345:0crwdne204345:0</target>
         <jms:reference-file line="49">/../../../../.././lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+        <note>Context: content.cancel_button.</note>
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This field is not editable.</source>
